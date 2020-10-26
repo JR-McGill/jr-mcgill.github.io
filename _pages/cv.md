@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Psychology (in progress) | Experimental Psychology | McGill University | 2020-Present 
+* Bachelor of Arts | Honours Psychology | McGill University | 2016-2019
+* Diplôme D'Études Collégiales | Business Administration | CEGEP John Abbott College | 2012-2016 
 
-Work experience
+Academic Distinctions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* First Class Honours | McGill University| 2019
+* Dean's Honour List | McGill University | 2016-2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research on Sex, Violence, and Personality Lab | McGill University | 2018-Present
+  * Collection, entry, and analysis of research data
+  * Training volunteers and students on lab responsibilities  
+  * Administering study protocols to human participants in an ethical & professional manner
+  * Supervisor: <a href="https://www.mcgill.ca/psychology/david-d-vachon">Dr. David Vachon</a>
+
+* 0'Driscoll Lab | McGill University | 2018-Present
+  * Encoding of participant task-performance data for analysis 
+  * Statistical analysis of gathered data with SPSS
+  * Creation and presentation of completed undergraduate thesis from gathered data
+  * Supervisor: <a href="https://www.mcgill.ca/psychology/gillian-odriscoll"> Dr. Gillian O'Driscoll </a>
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Coming soon
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * Santaguida, M., Rappel, J., Dubé, S., Eidus, C., & Vachon, D. (2019, July). <i> Genital thermography as a predictive measure of sexual aggression: A pilot study on university males. </i> Poster presentation for the International Academy of Sex Research, Mexico City, Mexico.
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Problem Solving
+  * 
+* Technology
+  * R (Programming Language)
+  * Python
+  * Proficiency in Microsoft Office, including VBA & Macro implementation 
+  * Knowledge of major statistical software packages, including SPSS
+* Teamwork
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
